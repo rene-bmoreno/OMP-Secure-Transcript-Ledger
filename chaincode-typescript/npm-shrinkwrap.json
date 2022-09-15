@@ -1,12 +1,12 @@
 {
-    "name": "asset-transfer-typescript",
-    "version": "2.0.1",
+    "name": "transcript-request-handler",
+    "version": "1.0.1",
     "lockfileVersion": 2,
     "requires": true,
     "packages": {
         "": {
-            "name": "asset-transfer-typescript",
-            "version": "2.0.1",
+            "name": "transcript-request-handler",
+            "version": "1.0.1",
             "license": "Apache-2.0",
             "dependencies": {
                 "fabric-contract-api": "^2.4.0",
